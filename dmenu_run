@@ -1,2 +1,3 @@
 #!/bin/sh
+export PATH=/home/fsareshwala/code/dmenu:${PATH}
 dmenu_path | dmenu "$@" | ${SHELL:-"/bin/sh"} &
