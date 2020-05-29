@@ -13,8 +13,6 @@ I have applied the following patches in this repository:
   screen
 - [highlight](https://tools.suckless.org/dmenu/patches/highlight): highlights the individual
   characters of matched text
-- [prefix completion](https://tools.suckless.org/dmenu/patches/prefix-completion): items prefixed by
-  the written text will match
 
 Upstream Project
 ----------------
