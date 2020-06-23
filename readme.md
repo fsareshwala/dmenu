@@ -11,6 +11,8 @@ I have applied the following patches in this repository:
   case-insensitive item matching to default behaviour
 - [center](https://tools.suckless.org/dmenu/patches/center): centers `dmenu` in the middle of the
   screen
+- [fuzzymatch](https://tools.suckless.org/dmenu/patches/fuzzymatch): type non-consecutive portions
+  of the string to be matched
 - [highlight](https://tools.suckless.org/dmenu/patches/highlight): highlights the individual
   characters of matched text
 
